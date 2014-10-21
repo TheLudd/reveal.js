@@ -1,0 +1,22 @@
+* My background
+  - Mediatool 
+  - Micro services vs Macro services
+  - Working on larger apps
+* WTF is di?
+  - Dude! No di...
+  - DI! Dude...
+* How I came to it?
+  - Java
+  - jQuery
+  - Angular
+  - Node
+* What's the use?
+* Existing implementations
+  - Angular
+  - Countless others
+  - node-dependency-injection?
+* Module loading vs DI
+* Amend
+  - 50 + 50 loc
+  - Concept
+  - Demo
